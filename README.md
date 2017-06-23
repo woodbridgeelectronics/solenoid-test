@@ -17,7 +17,8 @@ LMFlashProgrammer_1613.msi:    setup file for LM Flash Programmer. This utility 
 
 project.bin:                   firmware binary file on Solenoid Control Board. this file can be downloaded with LM Flash Programmer utility.
 
-project.zip:                  firmware source code. firmware is developed with TI Source Composer Studio 6.2.0
+project.zip:                   firmware source code. firmware is developed with TI Source Composer Studio 6.2.0
 
 solenoid_test.py:              sourcecode file. The software was developed under Python 2.7.10 64-bit and wxPython 3.0 environment. The sourcecode can run directly with environment setup properly. The sourcecode was converted to Windows executable with pyinstall tool. Windows executable files were packaged into single setup file with Inno setup 5 software.
 
+900100 pcb.zip:               PCB design project with Eagle.
